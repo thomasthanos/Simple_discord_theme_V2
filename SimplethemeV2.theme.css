@@ -1724,7 +1724,7 @@ z-index: 999!important;
 .userSettingsSecurity-2kODPN .isEnabled-20V6lG + div + .flex-2S1XBF .lookOutlined-3RTC7c.colorRed-2VFhM4  {
     font-size: 0;
     background-color: rgb(110, 0, 0) !important;
-    box-shadow: 1px 3px 10px 5px rgb(110, 0, 0) inset,0px 0px 10px 1px var(--background-tertiary)!important;
+    box-shadow: 1px 3px 10px 5px rgb(110, 0, 0) inset,0px 0px 10px 1px white!important;
     transition: 100ms !important;
 }
 .userSettingsSecurity-2kODPN .isEnabled-20V6lG + div + .flex-2S1XBF .lookOutlined-3RTC7c.colorRed-2VFhM4::before  {
