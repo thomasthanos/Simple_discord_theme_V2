@@ -5,6 +5,9 @@
  * @version 1.4
  * @authorId 706932839907852389
 */
+/****FONTS*****/
+@import url('https://fonts.googleapis.com/css2?family=Caveat:wght@500&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Neuton&display=swap');
 
 @import url("https://nfld99.github.io/Better-Discord/Source_Code/Addons/Use_Fonts/DiscordFont.css");
 @import url('https://fonts.googleapis.com/css2?family=Courier+Prime:ital@1&family=Griffy&family=Henny+Penny&family=Indie+Flower&family=Jua&family=Libre+Barcode+128+Text&family=Monoton&family=Nabla&family=Poiret+One&family=Roboto:wght@500&family=Signika+Negative:wght@500&family=Yellowtail&display=swap');
@@ -1691,4 +1694,55 @@ z-index: 999!important;
 }
 .lookFilled-1H2Jvj.colorPrimary-2-Lusz:hover{
     background-color: #42444b !important;
+}
+
+.root-22AK9z{
+    background-image: url(https://i.postimg.cc/766Bv56f/cf526caf783faa53166d2c1b8eab3c04.jpg) !important;
+}
+
+.theme-dark .previewImage-7EfQfc {
+    background-image: url(https://i.postimg.cc/DyFxFpm9/dslr-camera-logo-design-png-removebg-preview.png) !important;
+}.card-2guEcY:not(.outline-3kFzf8){
+    background-color: var(--background-tertiary);
+}
+.constrainedRow-3y91Xf:has(.lookLink-13iF2K.colorLink-34zig_[aria-label="Εμφάνιση διεύθυνσης email"]),
+.constrainedRow-3y91Xf:has(.lookLink-13iF2K.colorLink-34zig_[aria-label="Εμφάνιση αριθμού τηλεφώνου"]) {
+  filter: blur(6px);
+}
+/*κινητο*/
+.changePasswordButton-3j5UVD{
+    font-size: 0;
+    background-color: rgb(37, 37, 37) !important;
+    box-shadow: 1px 3px 10px 5px rgba(69, 77, 87, 0.753) inset,0px 0px 10px 1px var(--background-tertiary)!important;
+    transition: 100ms !important;
+}
+.changePasswordButton-3j5UVD::before{
+    content: "Replace phone number";
+    font-size: 18px !important;
+    font-family: "Caveat";
+}
+.changePasswordButton-3j5UVD:hover{
+    background-color: #484b57 !important;
+    box-shadow: 1px 3px 10px 5px rgba(24, 27, 31, 0.753) inset,0px 0px 10px 1px var(--background-tertiary)!important;
+    transition: 100ms !important;
+}
+/*END*/
+/*delete*/
+
+/*disable*/
+.disableButton-3BR0Vj{
+    font-size: 0;
+}
+.disableButton-3BR0Vj::before{
+    content: "✖️ Disable";
+    font-size: 18px !important;
+    font-family: "Neuton";
+}
+/*END*/
+.marginBottom20-315RVT {
+    margin-bottom: 10px !important;
+}
+.contents-3NembX:has(.lookFilled-1H2Jvj.colorBrand-2M3O3N[aria-label="Προβολή εφεδρικών κωδικών"]){
+    background-color: aquamarine !important;
+    color: blue !important;
 }
