@@ -1478,37 +1478,7 @@ z-index: 999!important;
 
 
 
-:root .userPopoutInner-nv9Y92 .bannerSVGWrapper-2CLfzN[viewBox="0 0 340 120"] {
-  transform: translateX(-200px);
-}
-:root .userPopoutInner-nv9Y92 .bannerSVGWrapper-2CLfzN[viewBox="0 0 340 120"] .banner-1YaD3N > * {
-  display: none;
-}
-:root .userPopoutInner-nv9Y92 .bannerSVGWrapper-2CLfzN .pencilContainer-11Kuga {
-  display: none;
-}
-:root .userPopoutInner-nv9Y92 .profileBadges-2pItdR {
-  position: absolute;
-  top: 65px;
-  left: 110px;
-  background-color: transparent;
-}
-:root .userPopoutInner-nv9Y92 .avatarWrapperNormal-ahVUaC {
-  position: relative;
-  width: 80px;
-  top: 16px;
-  z-index: 1;
-}
-:root .userPopoutInner-nv9Y92 .avatarWrapperNormal-ahVUaC foreignObject {
-  mask: none;
-  border-radius: var(--border-radius);
-}
-:root .userPopoutInner-nv9Y92 .avatarWrapperNormal-ahVUaC .avatarHint-k7pYop {
-  border-radius: var(--border-radius);
-}
-:root .userPopoutInner-nv9Y92 .avatarWrapperNormal-ahVUaC circle {
-  display: none;
-}
+
 
 @media (min-width: 1350px) {
   :root .standardSidebarView-E9Pc3j {
