@@ -501,12 +501,6 @@ button.button-12Fmur{
     border-radius: 8px;
     transition: 200ms;
 }
-.lookOutlined-3RTC7c.colorRed-2VFhM4:hover {
-    background-color: #bb0006;
-    color: yellow;
-    transition: 300ms;
-    box-shadow: 4px 5px 5px #660609;
-}
 .userSettingsSecurity-2kODPN .isEnabled-20V6lG{
     color: green !important;
 }
