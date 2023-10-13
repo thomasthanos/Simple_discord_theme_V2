@@ -1786,3 +1786,21 @@ z-index: 999!important;
   box-shadow: 1px 3px 10px 5px rgb(114, 0, 0) inset,0px 0px 5px 1px rgb(114, 0, 0)!important;
   transition: 100ms !important;
 }
+
+/*disable*/
+.disableButton-3BR0Vj{
+    font-size: 0;
+    background-color: rgb(153, 0, 0) !important;
+    box-shadow: 1px 3px 10px 5px rgb(134, 0, 0)  inset,0px 0px 4px 1px rgb(156, 0, 0)!important;
+    transition: 200ms !important;
+  }
+  .disableButton-3BR0Vj::before{
+    content: "✖️〢Disable";
+    font-size: 17px !important;
+    font-family: "Caveat";
+  }
+  .disableButton-3BR0Vj:hover{
+    background-color: #740000 !important;
+    box-shadow: 1px 3px 10px 5px rgb(114, 0, 0) inset,0px 0px 5px 1px rgb(114, 0, 0)!important;
+    transition: 100ms !important;
+  }
