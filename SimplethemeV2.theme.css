@@ -6,6 +6,7 @@
  * @authorId 706932839907852389
 */
 /****FONTS*****/
+@import url('https://fonts.googleapis.com/css2?family=Neuton&family=Tilt+Neon&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Caveat:wght@500&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Neuton&display=swap');
 
@@ -1733,3 +1734,33 @@ z-index: 999!important;
     transition: 200ms !important;
     border-color: rgba(0, 0, 255, 0) !important;
 }
+.voiceChannelsButton-SRmgo8 {
+    color: white;
+    background-color: cadetblue;
+    border: 0.7px solid black;
+    border-radius: 8px;
+    padding: 5px !important;
+    margin-top: 8px;
+    margin-left: 26px;
+    margin-right: 34px;
+    box-shadow: inset 5px 2px 5px rgb(0, 95, 139),0px 0px 4px rgb(0, 95, 139);
+    transition: 150ms !important;
+  }
+  .voiceChannelsButton-SRmgo8:hover{
+    background-color: rgb(61, 101, 102);
+    box-shadow: inset 5px 2px 5px rgb(0, 63, 92),0px 0px 4px rgb(0, 63, 92);
+    transition: 150ms !important;
+  }
+  /* For Delete Account button */
+  [class*="userSettingsSecurity-2kODPN"] ~ .marginTop40-Q4o1tS:has(h2.h5-2feg8J) .children-2C96Ex .buttonContainer-cmXa0P .lookOutlined-3RTC7c.colorRed-2VFhM4 {
+    font-size: 0;
+    background-color: rgb(104, 0, 0) !important;
+    box-shadow: 1px 3px 10px 5px rgb(75, 0, 0) inset,0px 0px 5px 1px rgb(75, 0, 0)!important;
+    transition: 200ms !important;
+    border: #484b57 !important;
+  }
+  [class*="userSettingsSecurity-2kODPN"] ~ .marginTop40-Q4o1tS:has(h2.h5-2feg8J) .children-2C96Ex .buttonContainer-cmXa0P .lookOutlined-3RTC7c.colorRed-2VFhM4::before {
+    content: "⚠️〢Delete";
+    font-size: 19px !important;
+    font-family: "Caveat";
+  }
