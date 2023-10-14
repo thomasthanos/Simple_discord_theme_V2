@@ -1293,18 +1293,18 @@ z-index: 999!important;
     padding-top: 65px !important;
     padding-bottom: 5px;
 }
-  .layer-86YKbF .accountProfileCard-lbN7n- .userInfo-regn9W .userTag-2qPxEZ {
+.layer-86YKbF .accountProfileCard-lbN7n- .userInfo-regn9W .userTag-2qPxEZ {
     margin-bottom: 2px;
-  }
-  .layer-86YKbF .accountProfileCard-lbN7n- .userInfo-regn9W .container-1gYwHN {
+}
+.layer-86YKbF .accountProfileCard-lbN7n- .userInfo-regn9W .container-1gYwHN {
     justify-content: center;
     width: 100%;
     margin-bottom: -10px;
-  }
-  .layer-86YKbF .accountProfileCard-lbN7n- .userInfo-regn9W .button-ejjZWC {
+}
+.layer-86YKbF .accountProfileCard-lbN7n- .userInfo-regn9W .button-ejjZWC {
     position: absolute;
     top: 27px;
-    right: 385px;
+    right: 405px;
     width: 76px;
     height: 76px;
     min-width: unset;
@@ -1318,24 +1318,24 @@ z-index: 999!important;
     transform: scale(1.5);
     opacity: 0.7;
     transition: 150ms !important;
-  }
-  .layer-86YKbF .accountProfileCard-lbN7n- .userInfo-regn9W .button-ejjZWC:hover {
+}
+.layer-86YKbF .accountProfileCard-lbN7n- .userInfo-regn9W .button-ejjZWC:hover {
     background-color: rgba(0, 0, 0, 0.6) !important;
     box-shadow: none;
     background-image: url('data:image/svg+xml;charset=utf-8,<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="thistle" class="bi bi-pencil-square" viewBox="0 0 16 16"><path d="M15.502 1.94a.5.5 0 0 1 0 .706L14.459 3.69l-2-2L13.502.646a.5.5 0 0 1 .707 0l1.293 1.293zm-1.75 2.456-2-2L4.939 9.21a.5.5 0 0 0-.121.196l-.805 2.414a.25.25 0 0 0 .316.316l2.414-.805a.5.5 0 0 0 .196-.12l6.813-6.814z"/><path fill-rule="evenodd" d="M1 13.5A1.5 1.5 0 0 0 2.5 15h11a1.5 1.5 0 0 0 1.5-1.5v-6a.5.5 0 0 0-1 0v6a.5.5 0 0 1-.5.5h-11a.5.5 0 0 1-.5-.5v-11a.5.5 0 0 1 .5-.5H9a.5.5 0 0 0 0-1H2.5A1.5 1.5 0 0 0 1 2.5v11z"/></svg>') !important;
     background-position: center !important;
     background-repeat: no-repeat !important;
     transition: 150ms !important;
-  }
-  /*threads background fix*/
-  .theme-dark .container-18GwIk {
+}
+/*threads background fix*/
+.theme-dark .container-18GwIk {
     background: rgb(51, 49, 53);
-  }
-  /*toolbar fix [the bar when u double click ur unsent text]*/
-  .toolbar-37BrJ5 .inactive-3WMCpS {
+}
+/*toolbar fix [the bar when u double click ur unsent text]*/
+.toolbar-37BrJ5 .inactive-3WMCpS {
     background: transparent !important;
     box-shadow: none !important;
-  }
+}
 @media (min-width: 1350px) {
   :root .standardSidebarView-E9Pc3j {
     border-radius: 0 var(--border-radius) var(--border-radius) 0;
