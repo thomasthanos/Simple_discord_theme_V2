@@ -425,53 +425,23 @@ button.button-12Fmur{
     -webkit-box-shadow: var(--elevation-stroke), var(--elevation-medium);
     box-shadow: var(--elevation-stroke), var(--elevation-medium);
 }
-.userProfileInnerThemedNonPremium-2AJg-H{
-    --profile-gradient-primary-color: #6876b3;
-    --profile-gradient-secondary-color: #c4c4fb;
-    --profile-gradient-button-color: #676b94;
-    --profile-gradient-overlay-color: #42496d;
-    --profile-body-background-color: #394278;
-    --profile-body-background-hover: #00000014;
-    --profile-body-divider-color: #6876b3;
-    --profile-avatar-border-color: rgba(172, 19, 108, 0.000);
-    --profile-message-input-border-color: rgba(240, 240, 240, 0);
-    --profile-note-background-color: rgba(0, 0, 0, 0.623);
-    --account-profile-popout-menu-hover: #0000007a;
-    --profile-role-pill-background-color: #00000063;
-    --profile-role-pill-border-color: #0b4cce00;
-    transition: 250ms !important;
-}
-.userPopoutInner-nv9Y92 {
-    padding: 4px;
-    background: linear-gradient( var(--profile-gradient-primary-color), var(--profile-gradient-secondary-color));
-}
 .avatarPositionNormal-2jWoC2{
     margin-left: 5px;
     margin-top: 5px;
 }
-
-
-.userProfileModalInner-3dx9L9 {
-    background-color: var(--profile-gradient-primary-color);
-    padding: 4px;
+.popoutBanner-3cqRD9 {
+    border-radius: 4px 4px 3px 3px !important;
+    background-repeat: no-repeat;
+    background-position: center !important;
+    background-size: 100% ;
+    background-image: url("https://share.creavite.co/ymLwZ90mI4LSqpFM.gif");
+    margin-top: 0px;
+  }
+  .profileBanner-1owKI5{
+    background-image: url(https://i.postimg.cc/VLBJsgN2/ezgif-com-resize-1.gif) !important;
+    height: 111px;
+    transform: scale(1);
 }
-.userProfileInnerThemedWithBanner-25XGmz{
-    margin-left: -4px;
-    margin-top: -4px;
-}
-.sidebarRegionScroller-FXiQOh {
-    right: 5px;
-    top: -1px;
-    box-shadow: -0px -0px 10px 0px #000000 inset, 0px 0px 10px 0px #000000 inset;
-    border-radius: 30px;
-}
-.side-1lrxIh .item-2GWPIy {
-    border-radius: 50px;
-}
-.sidebar-nqHbhN{
-    width: 285px !important;
-}
-
 .container-8Futzw {
     background-color: rgba(0, 0, 0, 0.418);
     border-radius: 15px;
