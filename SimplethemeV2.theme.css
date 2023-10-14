@@ -425,35 +425,7 @@ button.button-12Fmur{
     -webkit-box-shadow: var(--elevation-stroke), var(--elevation-medium);
     box-shadow: var(--elevation-stroke), var(--elevation-medium);
 }
-.avatarPositionNormal-2jWoC2{
-    margin-left: 5px;
-    margin-top: 5px;
-}
-.popoutBanner-3cqRD9 {
-    border-radius: 4px 4px 3px 3px !important;
-    background-repeat: no-repeat;
-    background-position: center !important;
-    background-size: 100% ;
-    background-image: url("https://share.creavite.co/ymLwZ90mI4LSqpFM.gif");
-    margin-top: 0px;
-  }
-  .profileBanner-1owKI5{
-    background-image: url(https://i.postimg.cc/VLBJsgN2/ezgif-com-resize-1.gif) !important;
-    height: 111px;
-    transform: scale(1);
-}
-.container-8Futzw {
-    background-color: rgba(0, 0, 0, 0.418);
-    border-radius: 15px;
-    background-image: -webkit-linear-gradient(-64deg, #4783a8bb 26%, #003a5eb4 59%);
-    -webkit-backdrop-filter: blur(5px);
-    backdrop-filter: blur(15px);
-}
-.typeWindows-2-g3UY>.wordmark-2u86JB>svg {
-    filter: drop-shadow(0 0 3px cyan);
-    margin-top: 6px;
-    margin-left: 3px;
-}
+
 
 .typeWindows-2-g3UY>.wordmark-2u86JB>svg>g>path {
     fill: cyan;
