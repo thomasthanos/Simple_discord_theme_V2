@@ -454,11 +454,7 @@ button.button-12Fmur{
     height: 111px;
     transform: scale(1);
 }
-.banner-1YaD3N:not( .popoutBannerPremium-3i5EEI){
-    margin-left: 3px !important;
-    width: calc(100% - 13px);
-    border-radius: 12px;
-}
+
 .userProfileModalInner-3dx9L9 {
     background-color: var(--profile-gradient-primary-color);
     padding: 4px;
@@ -1466,13 +1462,11 @@ z-index: 999!important;
     background: transparent !important;
     box-shadow: none !important;
   }
-
 .banner-1YaD3N:not( .popoutBannerPremium-3i5EEI) {
     margin-left: 5px !important;
     width: calc(100% - 11px);
     border-radius: 12px;
 }
-
 @media (min-width: 1350px) {
   :root .standardSidebarView-E9Pc3j {
     border-radius: 0 var(--border-radius) var(--border-radius) 0;
