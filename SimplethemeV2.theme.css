@@ -1285,8 +1285,8 @@ z-index: 999!important;
     padding-left: 0;
 }
 .layer-86YKbF .accountProfileCard-lbN7n- .userInfo-regn9W .avatar-3mTjvZ {
-    top: 17px !important;
-    left: calc(50% - 5px) !important;
+    top: 50px !important;
+    left: calc(18% - 50px) !important;
 }
 /*custom user setting profile position*/
 .layer-86YKbF .accountProfileCard-lbN7n- .userInfo-regn9W {
@@ -1934,3 +1934,6 @@ z-index: 999!important;
     height: 15px !important;
 } 
 /* END */
+.container-2o3qEW {
+    box-shadow: 0px 0px 10px -2px black inset !important;
+}
