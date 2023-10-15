@@ -1180,6 +1180,7 @@ z-index: 999!important;
 .members-3WRCEx .member-2gU6Ar .username-i5-wv->span:before{content:"";position:absolute;top:0;right:0;bottom:0;left:0;background:linear-gradient(to right, hsla(0deg, 0%, 100%, 0.07) 90%, transparent);border-radius:3px;opacity:0;transition:all .15s ease-in-out;z-index:-1;pointer-events:none}
 .members-3WRCEx .member-2gU6Ar .username-i5-wv->span:after{content:"";position:absolute;top:0;right:100%;bottom:0;left:0;background:linear-gradient(to right, var(--main-color) 90%, transparent);border-radius:3px;opacity:.8;transition:all .3s ease-in-out;z-index:-1;pointer-events:none}.members-3WRCEx .member-2gU6Ar .username-i5-wv->span[style^="color:"]:before,.members-3WRCEx .member-2gU6Ar .username-i5-wv->span[style^="color:"]:after{background:linear-gradient(to right, currentColor 90%, transparent)}.members-3WRCEx .member-2gU6Ar:hover .username-i5-wv->span:before,.members-3WRCEx .member-2gU6Ar.selected-1-Z6gm .username-i5-wv->span:before{opacity:1}.members-3WRCEx .member-2gU6Ar:hover .username-i5-wv->span[style^="color:"]:before,.members-3WRCEx .member-2gU6Ar.selected-1-Z6gm .username-i5-wv->span[style^="color:"]:before{opacity:.07}.members-3WRCEx .member-2gU6Ar.selected-1-Z6gm .username-i5-wv->span{-webkit-text-fill-color:#fff;text-shadow:0 0 3px rgba(0,0,0,.7)}
 .members-3WRCEx .member-2gU6Ar.selected-1-Z6gm .username-i5-wv->span:after{right:0}.members-3WRCEx .member-2gU6Ar .name-3Vmqxm{font-size:16px;color:rgba(255,255,255,.6);transition:all .15s ease-in-out;overflow:hidden}
+/* blur unread messages */
 .wrapper-NhbLHG.modeUnread-3Cxepe .link-1_kTxV .linkTop-1W1aK6 .name-28HaxV {
     color: var(--channel-unread);
     text-shadow: 0 0 3px;
@@ -1189,7 +1190,17 @@ z-index: 999!important;
     filter: drop-shadow(0 0 1.2px);
     opacity: 1;
 }
-/*END MEMBER COLOR LINE */
+.container-q97qHp{
+    color: cadetblue;
+    filter: drop-shadow(0 0 .6px) !important;
+    transition: 150ms !important;
+}
+.container-q97qHp:hover{
+    color: var(--channel-unread);
+    filter: drop-shadow(0 0 1.2px) !important;
+    transition: 150ms !important;
+}
+/* END */
 [aria-checked=true].item-1TA5qI .radioBar-1XgZqD {
     background-color: var(--radio-bar-accent-color, var(--main-color)) !important;
 }
