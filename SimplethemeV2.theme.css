@@ -706,18 +706,7 @@ a>.iconWrapper-2awDjA[aria-label="Βοήθεια"] {
     background-image: -webkit-linear-gradient(-43deg, #4b508071 43%, #7a72b3 100%) !important;
     transition: 250ms;
 }
-.clickable-28SzVr:hover,
-.interactive-1vLZ_I:hover {
-    transform: scale(1.035);
-    transition: all 0.35s;
-    border-radius: 50px !important;
-    background-color: rgba(0, 0, 0, 0.226);
-}
-.clickable-28SzVr,
-.interactive-1vLZ_I {
-    transition: all 0.4s;
-    border-radius: 50px !important;
-}
+
 .message-1WzYhw strong, #app-mount .wrapper-1ZcZW- {
     background-color: rgb(16, 104, 99);
     color: white;
