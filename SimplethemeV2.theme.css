@@ -667,10 +667,6 @@ a>.iconWrapper-2awDjA[aria-label="Βοήθεια"] {
         transform: rotate(0deg);
     }
 }
-.clickable-28SzVr:hover .layout-1qmrhw{
-    background-color: rgba(47, 79, 79, 0.678);
-    border-radius: 8px !important;
-}
 .reactionMe-1PwQAc {
     border-radius: 50px !important;
     background: var(--accentcolorV1) !important;
