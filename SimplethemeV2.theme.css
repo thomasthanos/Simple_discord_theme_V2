@@ -706,6 +706,7 @@ a>.iconWrapper-2awDjA[aria-label="Βοήθεια"] {
     background-image: -webkit-linear-gradient(-43deg, #4b508071 43%, #7a72b3 100%) !important;
     transition: 250ms;
 }
+
 .message-1WzYhw strong, #app-mount .wrapper-1ZcZW- {
     background-color: rgb(16, 104, 99);
     color: white;
@@ -811,7 +812,7 @@ a>.iconWrapper-2awDjA[aria-label="Βοήθεια"] {
     background-color: #000;
     border-radius: 15px;
     border: 1.4px solid rgb(255, 255, 255);
-    width: 840px !important;
+    width: 740px !important;
 }
 .row-XYkFDK{
     border-radius: 5px;
