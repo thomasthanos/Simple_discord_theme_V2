@@ -49,7 +49,7 @@
     border-radius: 20px;
     box-shadow: 0 0 3px 1px rgba(0, 0, 0, 0.45);
 }
-.theme-dark .panel-ufc1-o {
+.theme-dark .panels-3wFtMD {
     border-radius: 30px 30px 0px 0px !important;
 }
 .base-2jDfDU {
@@ -917,7 +917,7 @@ a>.iconWrapper-2awDjA[aria-label="Βοήθεια"] {
     transition: 400ms;
     border-radius: 10px;
 }
-.theme-dark .container-30qY7E {
+.theme-dark .container-1CH86i {
     background-color: #000;
     border: 2.4px solid rgb(197, 116, 116);
     border-radius: 5px;
@@ -1308,7 +1308,7 @@ z-index: 999!important;
     transition: 150ms !important;
 }
 /*threads background fix*/
-.theme-dark .container-18GwIk {
+.theme-dark .container-1CH86i {
     background: rgb(51, 49, 53);
 }
 /*toolbar fix [the bar when u double click ur unsent text]*/
