@@ -1286,8 +1286,8 @@ z-index: 999!important;
 }
 .layer-86YKbF .accountProfileCard-lbN7n- .userInfo-regn9W .button-ejjZWC {
     position: absolute;
-    top: 27px;
-    right: 405px;
+    top: 53px;
+    right: 743.5px;
     width: 76px;
     height: 76px;
     min-width: unset;
@@ -1541,16 +1541,7 @@ z-index: 999!important;
     box-shadow: 1px 3px 10px 5px rgba(69, 77, 87, 0.753) inset,0px 0px 10px 1px var(--background-tertiary)!important;
     transition: 100ms !important;
 }
-.userSettingsSecurity-2kODPN .isEnabled-20V6lG + div + .flex-2S1XBF .lookFilled-1H2Jvj.colorBrand-2M3O3N::before  {
-    content: "Backup codes";
-    font-size: 18px !important;
-    font-family: "Caveat";
-}
-.userSettingsSecurity-2kODPN .isEnabled-20V6lG + div + .flex-2S1XBF .lookFilled-1H2Jvj.colorBrand-2M3O3N:hover{
-    background-color: #484b57 !important;
-    box-shadow: 1px 3px 10px 5px rgba(24, 27, 31, 0.753) inset,0px 0px 10px 1px var(--background-tertiary)!important;
-    transition: 100ms !important;
-}
+
 .voiceChannelsButton-SRmgo8 {
     color: white;
     background-color: cadetblue;
