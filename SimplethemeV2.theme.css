@@ -792,11 +792,6 @@ a>.iconWrapper-2awDjA[aria-label="Βοήθεια"] {
 .rtcConnectionQualityFine-3zZrSa .pingForeground-1BRBTc {
     color: green;
 }
-.lookFilled-GPyucw.select-Zz0IcO {
-    background-color: #000;
-    border: 2.4px solid rgb(255, 255, 255);
-    border-radius: 20px;
-}
 .background-3d_SjE{
     padding: 10px !important;
 }
@@ -900,19 +895,7 @@ a>.iconWrapper-2awDjA[aria-label="Βοήθεια"] {
     color: black;
     font-weight: 600;
 }
-.popout-15UxD6{
-    background-color: antiquewhite;
-    border-radius: 25px;
-}
-.option-Uc12mm[aria-selected=true]:not(.option-Uc12mm.multi-2vPqc4){
-    background-color: black;
-    border-radius: 0px 50px 50px 0px;
-}
-.option-Uc12mm.focused-10mbp-, .option-Uc12mm:focus, .option-Uc12mm:hover{
-    color: white !important;
-    background-color: rgba(0, 0, 0, 0.685);
-    border-radius: 0px 50px 50px 0px;
-}
+
 .lookOutlined-3RTC7c.colorBrand-2M3O3N {
     color: black;
     border: 2.4px solid rgb(255, 255, 255);
