@@ -895,7 +895,6 @@ a>.iconWrapper-2awDjA[aria-label="Βοήθεια"] {
     color: black;
     font-weight: 600;
 }
-
 .lookOutlined-3RTC7c.colorBrand-2M3O3N {
     color: black;
     border: 2.4px solid rgb(255, 255, 255);
@@ -1957,4 +1956,19 @@ z-index: 999!important;
 }
 .selectorText-LxivBc{
     color: white !important;
+}
+.card-m7VgZ8 {
+    border-radius: 12px;
+    font-size: 26px;
+    line-height: 29px;
+    color: yellowgreen;
+    border: transparent !important;
+    border-bottom: thick double black !important;
+    background-color: var(--background-secondary);
+    font-family: "Caveat";
+}
+.qualitySettingsContainer-2LjkfM {
+    border: 1px solid var(--primary-800);
+    border-radius: 8px;
+    padding: 0 8px 8px;
 }
