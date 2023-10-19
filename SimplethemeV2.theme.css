@@ -1972,3 +1972,23 @@ z-index: 999!important;
     border-radius: 8px;
     padding: 0 8px 8px;
 }
+.qualitySettingsContainer-2LjkfM {
+    border: 1px solid var(--background-secondary-alt);
+    border-radius: 8px;
+    padding: 0 8px 8px;
+    background-color: var(--background-secondary-alt);
+    box-shadow: 4px 4px 8px -5px rgb(0, 0, 0) inset, -3px -3px 10px 0px var(--background-tertiary)!important;
+}
+.container-nB1UVn {
+    border: 1px solid var(--background-secondary-alt);
+    border-radius: 8px;
+    padding: 8px 15px 8px 15px;
+    background-color: var(--background-secondary-alt);
+    box-shadow: 4px 4px 8px -5px rgb(0, 0, 0) inset, -3px -3px 10px 0px var(--background-tertiary)!important;
+}
+.container-1QtPKm.checked-16gMAN:has(.slider-HJFN2i) {
+    background-color: rgb(0, 76, 148) !important;
+}
+.container-1QtPKm.checked-16gMAN .slider-HJFN2i > svg > path, .container-1QtPKm.checked-16gMAN .slider-HJFN2i > rect {
+    fill: white !important;
+}
