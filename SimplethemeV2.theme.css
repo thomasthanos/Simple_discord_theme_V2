@@ -2246,3 +2246,8 @@ z-index: 999!important;
     --symbol1path: path('M7.89561 14.8538L6.30462 13.2629L14.3099 5.25755L15.9009 6.84854L7.89561 14.8538Z');
     --symbol2path: path('M4.08643 11.0903L5.67742 9.49929L9.4485 13.2704L7.85751 14.8614L4.08643 11.0903Z');
 }
+.modalContent-2y3sGW:has(.qualitySettingsContainer-2LjkfM) .lookFilled-GPyucw.select-Zz0IcO {
+    border: 0px !important;
+    background: black;
+    border-radius: 11px;
+}
