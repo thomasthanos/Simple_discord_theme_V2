@@ -830,6 +830,7 @@ a>.iconWrapper-2awDjA[aria-label="Βοήθεια"] {
     margin-bottom: 5px;
     margin-top: 6px;
     padding: 13px !important;
+    background: -webkit-linear-gradient(-74deg, #715ca154 36%, #004b5ec9 65%);
 }
 .sessionMoreButton-2cApSx{
     background-color: white !important;
