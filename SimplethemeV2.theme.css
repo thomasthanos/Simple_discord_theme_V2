@@ -1888,25 +1888,7 @@ z-index: 999!important;
 .container-2o3qEW {
     box-shadow: 0px 0px 10px -2px black inset !important;
 }
-.lookFilled-1H2Jvj.colorGreen-jIPCAS{
-    font-size: 0;
-    background-color: var(--background-tertiary);
-    border-radius: 10px;
-    box-shadow: 1px 4px 13px -4px rgb(111, 183, 250)  inset, 1px 4px 10px -3px rgb(111, 183, 250)!important;
-    transition: 200ms !important;
-}
-.lookFilled-1H2Jvj.colorGreen-jIPCAS::before{
-    font-size: 18px;
-    color: rgb(255, 217, 0) !important;
-    content: "Sent message";
-    font-family: "Caveat";
-}
-.lookFilled-1H2Jvj.colorGreen-jIPCAS:hover{
-    background-color: var(--background-secondary);
-    border-radius: 7px;
-    box-shadow: 1px 4px 13px -4px rgb(89, 147, 201)  inset, 1px 4px 10px -3px rgb(85, 139, 190)!important;
-    transition: 200ms !important;
-}
+
 /* END */
 /* private voice */
 .border-2BJQjd.speaking-3RWJBr{
