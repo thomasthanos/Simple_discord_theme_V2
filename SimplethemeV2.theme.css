@@ -7,6 +7,16 @@
 */
 @import url(https://nikospepponis.github.io/links/den-xero-ti-kanoyn.theme.css);
 
+.lookFilled-1H2Jvj.colorBrand-2M3O3N{
+    background-color: rgb(37, 37, 37);
+    box-shadow: 1px 3px 10px 5px rgba(69, 77, 87, 0.753) inset,0px 0px 10px 1px var(--background-tertiary);
+    transition: 100ms !important;
+}
+.lookFilled-1H2Jvj.colorBrand-2M3O3N:hover{
+    background-color: #484b57;
+    box-shadow: 1px 3px 10px 5px rgba(24, 27, 31, 0.753) inset,0px 0px 10px 1px var(--background-tertiary);
+    transition: 100ms !important;
+}
 /* Folders Size */
 :root {
     --server-size: 45px; /* Size of the server icons */
