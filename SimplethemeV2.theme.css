@@ -1808,8 +1808,9 @@ z-index: 999!important;
 .lookFilled-1H2Jvj.colorBrand-2M3O3N:disabled, .lookFilled-1H2Jvj.colorBrand-2M3O3N[aria-disabled=true]{
     background-color: rgb(33, 57, 165);
 }
-.profileBadges-2pItdR, .badgeList-2aoHPw{
+.profileBadges-2pItdR, .badgeList-2aoHPw, .badgeList-2hF9ig{
     background-color: var(--background-tertiary);
+    border-radius: 8px !important;
 }
 /* emoji recolor */
 .drawerSizingWrapper-1txdWG {
