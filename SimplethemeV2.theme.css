@@ -2218,3 +2218,34 @@ z-index: 999!important;
     transform: translateX(16px);
     
 }
+/* background */
+.bd-addon-card {
+    background: var(--bdAddonMini-bg-unchecked);
+}
+.bd-addon-card:has(.bd-switch-checked) {
+    background: var(--bdAddonMini-bg-checked);
+    box-shadow: 0px 0px 7px 0px rgba(255, 255, 255, 0.534),0px 0px 15px -1px rgba(255, 255, 255, 0.534) inset;
+    border-radius: 10px;
+}
+.bd-addon-card:not(:has(.bd-switch-checked), .bd-addon-card-disabled):hover {
+    background: var(--bdAddonMini-bg-unchecked-hover);
+}
+.bd-addon-card:not(:has(.bd-switch-checked), :hover) .bd-addon-header {
+    opacity: 0.6;
+}
+.bd-addon-card .bd-switch-disabled {
+    opacity: 1;
+    filter: none;
+}
+.bd-addon-card.bd-addon-card-disabled {
+    background: var(--info-danger-background);
+    border: 1px solid var(--info-danger-foreground);
+}
+.bd-addon-card .banner~.bd-description {
+    padding-top: 0;
+}
+.bd-switch input:checked+.bd-switch-body {
+    --switch-color: rgb(38, 101, 121);
+    --symbol1path: path('M7.89561 14.8538L6.30462 13.2629L14.3099 5.25755L15.9009 6.84854L7.89561 14.8538Z');
+    --symbol2path: path('M4.08643 11.0903L5.67742 9.49929L9.4485 13.2704L7.85751 14.8614L4.08643 11.0903Z');
+}
