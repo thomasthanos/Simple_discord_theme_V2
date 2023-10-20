@@ -1133,14 +1133,12 @@ z-index: 999!important;
 :root {
   --main-color: #2780e6;
 }
-.member-2gU6Ar .layout-1qmrhw{position:relative;background:rgba(0,0,0,0);transition:all .15s ease-in-out,transform .1s ease-in-out;z-index:1}
-.members-2y1nVj .member-2gU6Ar .layout-1qmrhw:active{transform:scale(0.9)}.members-2y1nVj .member-2gU6Ar .username-i5-wv->span{max-width:100%;overflow:visible;transition:all .15s ease-in-out}
-.members-2y1nVj .member-2gU6Ar .username-i5-wv->span:before{content:"";position:absolute;top:0;right:0;bottom:0;left:0;background:linear-gradient(to right, hsla(0deg, 0%, 100%, 0.07) 90%, transparent);border-radius:3px;opacity:0;transition:all .15s ease-in-out;z-index:-1;pointer-events:none}
-.members-2y1nVj .member-2gU6Ar .username-i5-wv->span:after{content:"";position:absolute;top:0;right:100%;bottom:0;left:0;background:linear-gradient(to right, var(--main-color) 90%, transparent);border-radius:3px;opacity:.8;transition:all .3s ease-in-out;z-index:-1;pointer-events:none}
+.member-2gU6Ar .layout-1qmrhw{position:relative;background:rgba(0,0,0,0);transition:all .35s ease-in-out,transform .1s ease-in-out;z-index:1}
+.members-2y1nVj .member-2gU6Ar .layout-1qmrhw:active{transform:scale(0.9)}.members-2y1nVj .member-2gU6Ar .username-i5-wv->span{max-width:100%;overflow:visible;transition:all .35s ease-in-out}
+.members-2y1nVj .member-2gU6Ar .username-i5-wv->span:after{content:"";position:absolute;top:0;right:100%;bottom:0;left:0;background:linear-gradient(to right, var(--main-color) 90%, transparent);border-radius:3px;opacity:.8;transition:all .5s ease-in-out;z-index:-1;pointer-events:none}
 .members-2y1nVj .member-2gU6Ar .username-i5-wv->span[style^="color:"]:before,.members-2y1nVj .member-2gU6Ar .username-i5-wv->span[style^="color:"]:after{background:linear-gradient(to right, currentColor 90%, transparent)}
-.members-2y1nVj .member-2gU6Ar:hover .username-i5-wv->span:before,.members-2y1nVj .member-2gU6Ar.selected-1-Z6gm .username-i5-wv->span:before{opacity:1}.members-2y1nVj .member-2gU6Ar:hover .username-i5-wv->span[style^="color:"]:before,
 .members-2y1nVj .member-2gU6Ar.selected-1-Z6gm .username-i5-wv->span[style^="color:"]:before{opacity:.07}.members-2y1nVj .member-2gU6Ar.selected-1-Z6gm .username-i5-wv->span{-webkit-text-fill-color:#fff;text-shadow:0 0 3px rgba(0,0,0,.7)}
-.members-2y1nVj .member-2gU6Ar.selected-1-Z6gm .username-i5-wv->span:after{right:0}.members-2y1nVj .member-2gU6Ar .name-3Vmqxm{color:rgba(255,255,255,.6);transition:all .15s ease-in-out;overflow:hidden}.members-2y1nVj .member-2gU6Ar 
+.members-2y1nVj .member-2gU6Ar.selected-1-Z6gm .username-i5-wv->span:after{right:0}
 
 /* blur unread messages */
 .wrapper-NhbLHG.modeUnread-3Cxepe .link-1_kTxV .linkTop-1W1aK6 .name-28HaxV {
