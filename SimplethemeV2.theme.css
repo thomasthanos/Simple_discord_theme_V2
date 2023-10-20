@@ -2053,3 +2053,14 @@ z-index: 999!important;
     color:rgb(255, 255, 255);
     font-weight: 700;
 }
+.theme-dark .invite-3uuHYQ, .artwork-28Cmnt {
+    background: hsl(var(--primary-630-hsl)/.6);
+    border-color: hsl(var(--primary-630-hsl)/.9);
+    background-image: -webkit-linear-gradient(-64deg, #193546d5 39%, #4bd8d8 170%);
+    border-radius: 15px;
+}
+.lookFilled-1H2Jvj.colorRed-2VFhM4 {
+    color: var(--white-500);
+    background-color: rgb(163, 0, 0);
+    border-radius: 7px;
+}
