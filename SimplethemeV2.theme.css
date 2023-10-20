@@ -2051,13 +2051,6 @@ z-index: 999!important;
 .assetsLargeImage-2aPegH{
     border-radius: 10px;
 }
-.overlayBackground-2aa7wt{
-    background-color: rgba(0, 0, 0, 0.418);
-    border-radius: 15px;
-    background-image: -webkit-linear-gradient(-64deg, #4783a8bb 26%, #003a5eb4 59%);
-    -webkit-backdrop-filter: blur(5px);
-    backdrop-filter: blur(15px);
-}
 .divider-2dDziJ{
     background: rgb(185, 185, 185);
     height: 2px !important;
