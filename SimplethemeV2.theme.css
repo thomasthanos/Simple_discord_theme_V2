@@ -2245,3 +2245,17 @@ z-index: 999!important;
     background: black;
     border-radius: 11px;
 }
+
+.popout-15UxD6{
+    background-color: antiquewhite;
+    border-radius: 10px 10px 20px 20px;
+}
+.option-Uc12mm.focused-10mbp-, .option-Uc12mm:focus, .option-Uc12mm:hover{
+    color: white !important;
+    background-color: rgba(0, 0, 0, 0.685);
+    border-radius: 0px 50px 50px 0px;
+}
+.option-Uc12mm{
+    color: rgb(161, 0, 175) !important;
+    font-weight: 600;
+}
