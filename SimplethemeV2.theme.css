@@ -1570,26 +1570,7 @@ z-index: 999!important;
     border-radius: 8px;
   border: #484b57 !important;
 }
-/*2FA*/
-.userSettingsSecurity-2kODPN .isEnabled-20V6lG + div + .flex-2S1XBF .lookOutlined-3RTC7c.colorRed-2VFhM4  {
-    font-size: 0;
-    background-color: rgb(153, 0, 0) !important;
-    box-shadow: 1px 3px 10px 5px rgb(82, 0, 0)  inset,0px 0px 4px 1px rgb(156, 0, 0)!important;
-    transition: 200ms !important;
-    border-radius: 10px;
-  border-color: #484b5700 !important;
-}
-.userSettingsSecurity-2kODPN .isEnabled-20V6lG + div + .flex-2S1XBF .lookOutlined-3RTC7c.colorRed-2VFhM4::before  {
-  content: "Remove 2FA";
-  font-size: 18px !important;
-  font-family: "Caveat";
-}
-.userSettingsSecurity-2kODPN .isEnabled-20V6lG + div + .flex-2S1XBF .lookOutlined-3RTC7c.colorRed-2VFhM4:hover{
-    background-color: rgb(153, 0, 0) !important;
-    box-shadow: 1px 3px 10px 5px rgb(82, 0, 0)  inset,0px 0px 4px 1px rgb(87, 0, 0)!important;
-    transition: 200ms !important;
-    border-radius: 8px;
-}
+
 /*disable*/
 .disableButton-3BR0Vj{
     font-size: 0;
